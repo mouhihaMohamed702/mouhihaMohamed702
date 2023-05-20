@@ -1,0 +1,174 @@
+site_name: Abdellatif BELMADY
+site_description: >-
+  Abdellatif BELMADY is the personal website of Mr. Abdellatif BELMADY where he shares the projects he is working on, 
+  the machine learning books he has read and also free courses on the main points of machine learning and deep learning.
+docs_dir: web/
+
+# Configuration
+theme:
+    font: false
+    name: material
+    logo: 'logo.png'
+    favicon: 'logo.png'
+    palette:
+      - scheme: default
+        primary: black
+        media: "(prefers-color-scheme: light)"
+        toggle:
+          icon: material/brightness-7
+          name: Switch to dark mode
+        accent: 'indigo'
+      - scheme: slate
+        media: "(prefers-color-scheme: dark)"
+        toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+        primary: black
+        accent: 'blue'
+
+    features:
+        - navigation.instant
+        - content.action.edit
+        - content.code.copy
+        - content.code.select
+        # - announce.dismiss
+        - content.code.annotate
+        # - content.tabs.link
+        - content.tooltips
+        # - header.autohide
+        # - navigation.expand
+        - navigation.indexes
+        # - navigation.instant
+        # - navigation.prune
+        #- navigation.sections
+        - navigation.tabs
+        # - navigation.tabs.sticky
+        - navigation.top
+        - navigation.tracking
+        - search.highlight
+        - search.share
+        - search.suggest
+        - toc.follow
+        # - navigation.expand
+        - navigation.footer
+        # - toc.integrate
+        - navigation.path
+        - navigation.indexes
+        - content.code.select
+
+    custom_dir: overrides
+
+extra_css:
+    - 'stylesheets/extra.css'
+    - 'stylesheets/fonts.css'
+    - 'stylesheets/home/extra.css'
+    - 'stylesheets/home/about.css'
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/abdellatif-belmady
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/abdellatif-belmady-ab999a133/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/abdellatif.belmady
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@otherways8368/featured
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/abdellatifbelmady/
+
+# Repository
+repo_url: https://github.com/abdellatif-belmady/abdellatif-belmady
+edit_uri: edit/source/web/
+
+# Copyright
+copyright: Copyright &copy; 2022 - 2023 Abdellatif BELMADY
+
+# Extensions
+markdown_extensions:
+    - meta
+    - attr_list
+    - codehilite
+    - sane_lists
+    - admonition
+    - pymdownx.arithmatex
+    - pymdownx.betterem:
+        smart_enable: all
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    # - pymdownx.emoji:
+    #     emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.tilde
+    - md_in_html
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Page tree
+nav:
+  - Home: index.md
+  - Projects:
+    - Spam Dataset: projects/spam datasets.md
+    - Ozone Dataset: projects/ozone datasets.md
+    - Boston Dataset: projects/boston datasets.md
+    - TP_GNN : projects/tp_gnn.md
+    - Abstractive Summarization: projects/abstractive summarization.md
+    - Big-Data For IoT: projects/big data for iot.md
+    - Profilage des chauffeurs: projects/projet R.md
+    - Reciprocal n-body Collision Avoidance : projects/Reciprocal-n-body-Collision-Avoidance.md
+    - Algorithmes Génétiques 2, Peindre Vermeer : projects/Painting Vermeer.md
+  - Documentations:
+    - Libraries:
+      - Documentations/Libraries/index.md
+      - NumPy: Documentations/Libraries/numpy.md
+      - Pandas: Documentations/Libraries/pandas.md
+    - Machine Learning Algorithms: 
+      - Documentations/Machine Learning Algorithms/index.md
+    - Computer Vision Algorithms:
+      - Documentations/Computer Vision Algorithms/index.md
+      - YOLO-NAS: Documentations/Computer Vision Algorithms/yolonas.md
+    # - Natural Language Processing: 
+    #   - courses/Natural Language Processing/index.md
+    #   - Bases of NLP: courses/Natural Language Processing/bases.md
+    #   - Tools of NLP: courses/Natural Language Processing/tools.md
+    #   - Simple Analysis: courses/Natural Language Processing/simple.md
+    #   - Advanced Analysis: courses/Natural Language Processing/advanced.md
+    #   - Data Collection: courses/Natural Language Processing/collection.md
+    #   - RNN: courses/Natural Language Processing/reseaunn.md
+    #   - Modern Technics: courses/Natural Language Processing/modern.md
+  - Books: books/not yet.md
+    # - Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: 
+    #   - Preface: books/Hands on machine learning/preface.md
+    #   - The Fundamentals of Machine Learning:
+    #     - The Machine Learning Landscape: books/Hands on machine learning/The Fundamentals of Machine Learning/3.1. The Machine Learning Landscape.md
+    #     - End-to-End Machine Learning Project: books/Hands on machine learning/The Fundamentals of Machine Learning/3.2. End-to-End Machine Learning Project.md
+    #     - Classification: books/Hands on machine learning/The Fundamentals of Machine Learning/3.3. Classification.md
+    #     - Training Models: books/Hands on machine learning/The Fundamentals of Machine Learning/3.4. Training Models.md
+    #     - Support Vector Machines: books/Hands on machine learning/The Fundamentals of Machine Learning/3.5. Support Vector Machines.md
+    #     - Decision Trees: books/Hands on machine learning/The Fundamentals of Machine Learning/3.6. Decision Trees.md
+    #     - Ensemble Learning and Random Forests: books/Hands on machine learning/The Fundamentals of Machine Learning/3.7. Ensemble Learning and Random Forests.md
+    #     - Dimensionality Reduction: books/Hands on machine learning/The Fundamentals of Machine Learning/3.8. Dimensionality Reduction.md
+    #     - Unsupervised Learning Techniques: books/Hands on machine learning/The Fundamentals of Machine Learning/3.9. Unsupervised Learning Techniques.md
+    #   - Neural Networks and Deep Learning:
+    #     - Introduction to Artificial Neural Networks with Keras: books/Hands on machine learning/Neural Networks and Deep Learning/4.1. Introduction to Artificial Neural Networks with Keras.md
+    #     - Training Deep Neural Networks: books/Hands on machine learning/Neural Networks and Deep Learning/4.2. Training Deep Neural Networks.md
+    #     - Custom Models and Training with TensorFlow: books/Hands on machine learning/Neural Networks and Deep Learning/4.3. Custom Models and Training with TensorFlow.md
+    #     - Custom Models and Training with TensorFlow: books/Hands on machine learning/Neural Networks and Deep Learning/4.4. Loading and Preprocessing Data with TensorFlow.md
+    #     - Deep Computer Vision Using Convolutional Neural Networks: books/Hands on machine learning/Neural Networks and Deep Learning/4.5. Deep Computer Vision Using Convolutional Neural Networks.md
+    #   - About the Author: books/Hands on machine learning/About the Author.md
+    #   - Colophon: books/Hands on machine learning/Colophon.md
+  - Services: services/documentation.md
+    # - Creation of professional documentation: services/documentation.md
