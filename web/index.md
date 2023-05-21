@@ -80,14 +80,7 @@ Sidi Bennour Higher School of Technology</a></strong> Morocco, El Jadida</p>
         <iframe width="100%" height="350" style="margin-bottom: 12px; border:0 " loading="lazy" allowfullscreen src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1361.5948895595536!2d-8.507329883840927!3d33.245581780820854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdaf1a69db96d39b%3A0xc37626dfc33ad1a3!2sEl%20Jadida%2C%20Morocco!5e0!3m2!1sen!2s!4v1621635093506!5m2!1sen!2s"></iframe> 
       </center>
      <h2><i class="fas fa-city"></i> Community Involvement -</h2>
-     <p><strong><a href="https://web.facebook.com/Rotaract.ENSAKH/?_rdc=1&_rdr">Rotaract Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2022 - June 2023</span><br><a href="http://www.centrale-casablanca.ma/fr/">National School of Applied Sciences</a></strong> Morocco, Khouribga</p><p> </p>
-     <h2><a href="https://www.instagram.com">@Mouhihamohamed</a> On <i class="fa fa-instagram"></i> <span class="instatext">Instagram</span> -</h2>
-      <center class="instafeed">
-        <span class="instalight">
-          <div data-mc-src="a08a2c3e-3751-4445-9e3c-96c46c439863#null"></div>
-          <script src="https://cdn2.woxo.tech/a.js#63d9a26430b9879a303c6456" async data-usrc></script>
-        </span>
-      </center>
+     <p><strong><a href="https://web.facebook.com/Rotaract.ENSAKH/?_rdc=1&_rdr">Rotaract Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2022 - June 2023</span><br>
      <h2><i class="fas fa-headphones-alt"></i> What I'm Listening To -</h2>
       <p class="music">
        <a href="https://open.spotify.com/user/31mvzj3gzwywq54tvf2ofmw2z3ju">
