@@ -55,7 +55,7 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
       <p>Design and development of a web application for managing recruitment files online using laravel/Angular/MySql .</p>
       <p><strong>Full stack developer<span class="date" style=" color: inherit;">Apr 2020 - Jun 2020</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/ecole-superieure-de-technologie/">Higher School of Technology</strong></a> - Internship</p>
       <p>
-       Design and development of a trainee management web applica- tion with Php5/html/css/Bootsrap/Jquery/JavaScript/MySql.
+       Design and development of a trainee management web applica- tion with Php5/html/css/Bootsrap/Jquery/JavaScript/MySql
       </p>
       <p><strong>Full stack developer<span class="date" style=" color: inherit;">Jul 2019-Aug 2019</span><br><a href="https://www.linkedin.com/company/atlanta-group-uk/">Atlanta Insurance </strong></a> - Internship</p>
       <p>
@@ -67,7 +67,7 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
       <p><strong>University Diploma of Technology (DUT) in Computer Engineering<span class="date" style=" color: inherit;">Sep 2018 - Apr 2020</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/ecole-superieure-de-technologie/">Sidi Bennour Higher School of Technology  </a></strong> Morocco, El Jadida</p>
      <h2><i class="fas fa-award"></i> Honors & Awards -</h2>
       <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Huawei ICT Academy</a>,  HCIA - Big Data (<a href="https://media.licdn.com/dms/image/C4D22AQFYc0jmE_yHxw/feedshare-shrink_800/0/1616676745722?e=1687392000&v=beta&t=oHy7BymHf84C9i_S3Cn7D4NvUe7eLn5ye2nLchsehTc">Certification</a>)<span class="date" style=" color: inherit;">Mar 2022 - Present</span><br><a href="https://www.ucd.ac.ma/">UCD Université Chouaib Doukkali</a></strong> Morocco, El Jadida</p><p> </p>
-      <p><strong>Hackathon - ENSA El Jadida, 2nd Place (<a href="">Certification</a>)<span class="date" style=" color: inherit;">Apr 2019 </span><br><a href="https://www.ensaj.ucd.ac.ma/">ENSA El Jadida</a></strong> Morocco, El Jadida</p><p> </p>
+      <p><strong>Hackathon - ENSA El Jadida, 2nd Place <span class="date" style=" color: inherit;">Apr 2019 </span><br><a href="https://www.ensaj.ucd.ac.ma/">ENSA El Jadida</a></strong> Morocco, El Jadida</p><p> </p>
      <h2><i class="fas fa-map-marker-alt"></i> Where I'm Located -</h2>
       <center>
         <iframe width="100%" height="350" style="margin-bottom: 12px; border:0 " loading="lazy" allowfullscreen src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1361.5948895595536!2d-8.507329883840927!3d33.245581780820854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdaf1a69db96d39b%3A0xc37626dfc33ad1a3!2sEl%20Jadida%2C%20Morocco!5e0!3m2!1sen!2s!4v1621635093506!5m2!1sen!2s"></iframe> 
