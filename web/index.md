@@ -41,7 +41,7 @@ title: About
       <p><strong>Hey! I’m MOUHIHA Mohamed,</strong> I'm a 23-year-old Moroccan student currently  studying Big Data, Data Science, Machine Learning, Deep Learning, Business Intelligence and Computer Vision at National School of Applied Sciences of Khouribga.
       My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I also believe that hard work and dedication are essential to success. As the famous author <i>Stephen King</i> once said, " <strong>Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.</strong>"</p>
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
-     <p><strong>Research Studen<span class="date" style=" color: inherit;">February 2023 - Present</span><br><a href="https://www.linkedin.com/company/other-ways25/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
+     <p><strong>Research Studen<span class="date" style=" color: inherit;">Feb 2023 - Present</span><br><a href="https://www.linkedin.com/company/other-ways25/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
 Master's thesis project: Analysis and comparison of deep learning recommender systems.
       <ul>
 <li>Discover recommendation systems and the recommendation process;
@@ -51,15 +51,20 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
 <li>Convert explicit feedback data into an implicit feedback dataset.
 <li>Propose an MLP architecture.
       </ul>
-      <p><strong>Full stack developer <span class="date" style=" color: inherit;">April 2021 -June 2021</span><br><a href="https://www.linkedin.com/company/6-perform/">Ziryab Tec </strong></a> - Internship</p>
+      <p><strong>Full stack developer <span class="date" style=" color: inherit;">Apr 2021 -Jun 2021</span><br><a href="https://www.linkedin.com/company/6-perform/">Ziryab Tec </strong></a> - Internship</p>
       <p>Design and development of a web application for managing recruitment files online using laravel/Angular/MySql .</p>
-      <p><strong>Full stack developer<span class="date" style=" color: inherit;">April 2020 - June 2020</span><br><a href="https://www.kerix.net/fr/annuaire-entreprise/vcr-sodalmu">Higher School of Technology</strong></a> - Internship</p>
+      <p><strong>Full stack developer<span class="date" style=" color: inherit;">Apr 2020 - Jun 2020</span><br><a href="https://www.kerix.net/fr/annuaire-entreprise/vcr-sodalmu">Higher School of Technology</strong></a> - Internship</p>
       <p>
        Design and development of a trainee management web applica- tion with Php5/html/css/Bootsrap/Jquery/JavaScript/MySql.
       </p>
+      <p><strong>Full stack developer<span class="date" style=" color: inherit;">Jul 2019-Aug 2019</span><br><a href="https://www.kerix.net/fr/annuaire-entreprise/vcr-sodalmu">Atlanta Insurance </strong></a> - Internship</p>
+      <p>
+      Design and development of a web application for managing re- cruitment files online using C#/MySql.
+      </p>
      <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
-      <p><strong>Data Science and digitalization<span class="date" style=" color: inherit;">Sept 2020 - Present</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
-      <p><strong>Physics Chemistry Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a href="https://fabacademy.org/">Preparatory Classes Errazi</a></strong> Morocco, El Jadida</p>
+      <p><strong>Research Master in Big Data and Decision Support<span class="date" style=" color: inherit;">Sep 2020 - Present</span><br><a href="http://www.centrale-casablanca.ma/fr/">Khouribga National School of Applied Sciences</a></strong> Morocco, Khouribga</p><p> </p>
+      <p><strong>Bachelor Degree in Computer Science and Applied Mathematics option Computer Science<span class="date" style=" color: inherit;">Sep 2020 - Apr 2021</span><br><a href="https://fabacademy.org/">Sidi Bennour Polydisciplinary Faculty </a></strong> Morocco, El Jadida</p>
+      <p><strong>University Diploma of Technology (DUT) in Computer Engineering<span class="date" style=" color: inherit;">Sep 2018 - Apr 2020</span><br><a href="https://fabacademy.org/">Sidi Bennour Higher School of Technology  </a></strong> Morocco, El Jadida</p>
      <h2><i class="fas fa-award"></i> Honors & Awards -</h2>
       <p><strong><a href="https://www.linkedin.com/company/techinnov-days/">TechInnov Days Poster Session</a>, 2nd Place (<a href="https://drive.google.com/file/d/1Z-UCedg1b5777CgnaPEKChC70VbUGA97/view?usp=share_link">Poster</a>)<span class="date" style=" color: inherit;">Sept 2022 - Present</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
       <p><strong>Centrale Coding Competition, 2nd Place (<a href="https://drive.google.com/file/d/1ryd9lxvUA3Qd3IUJMF8T0FRt1yWcccck/view?usp=share_link">Certification</a>)<span class="date" style=" color: inherit;">Nov 2021 - Dec 2021</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
