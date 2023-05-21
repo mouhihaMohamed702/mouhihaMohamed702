@@ -8,8 +8,8 @@ docs_dir: web/
 theme:
     font: false
     name: material
-    logo: 'logo.png'
-    favicon: 'logo.png'
+    logo: 'logo.jpg'
+    favicon: 'logo.jpg'
     palette:
       - scheme: default
         primary: black
