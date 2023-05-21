@@ -10,7 +10,7 @@
 
 ## Overview
 
-[``Abdellatif BELMADY``](https://mouhihamohamed702.github.io/mouhihaMohamed702/) is the personal website of Mr. Abdellatif BELMADY where he shares the projects he is working on, the machine learning books he has read and also free courses on the main points of machine learning and deep learning.
+[``Abdellatif BELMADY``](https://mouhihamohamed702.github.io/mouhihaMohamed702/) is the personal website of Mr. MOUHIHA Mohamed where he shares the projects he is working on, the machine learning books he has read and also free courses on the main points of machine learning and deep learning.
 
 
 This website is written in Markdown and gets built to a static website using [mkdocs](https://www.mkdocs.org/) and a modified version of the [mkdocs-material theme](https://squidfunk.github.io/mkdocs-material).
