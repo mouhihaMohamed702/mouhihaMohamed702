@@ -66,26 +66,13 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
       <p><strong>Bachelor Degree in Computer Science and Applied Mathematics option Computer Science<span class="date" style=" color: inherit;">Sep 2020 - Apr 2021</span><br><a href="https://fabacademy.org/">Sidi Bennour Polydisciplinary Faculty </a></strong> Morocco, El Jadida</p>
       <p><strong>University Diploma of Technology (DUT) in Computer Engineering<span class="date" style=" color: inherit;">Sep 2018 - Apr 2020</span><br><a href="https://fabacademy.org/">Sidi Bennour Higher School of Technology  </a></strong> Morocco, El Jadida</p>
      <h2><i class="fas fa-award"></i> Honors & Awards -</h2>
-      <p><strong><a href="https://www.linkedin.com/company/techinnov-days/">TechInnov Days Poster Session</a>, 2nd Place (<a href="https://drive.google.com/file/d/1Z-UCedg1b5777CgnaPEKChC70VbUGA97/view?usp=share_link">Poster</a>)<span class="date" style=" color: inherit;">Sept 2022 - Present</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
-      <p><strong>Centrale Coding Competition, 2nd Place (<a href="https://drive.google.com/file/d/1ryd9lxvUA3Qd3IUJMF8T0FRt1yWcccck/view?usp=share_link">Certification</a>)<span class="date" style=" color: inherit;">Nov 2021 - Dec 2021</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
+      <p><strong><a href="https://www.linkedin.com/company/techinnov-days/">Huawei ICT Academy</a>,  HCIA - Big Data (<a href="https://drive.google.com/file/d/1Z-UCedg1b5777CgnaPEKChC70VbUGA97/view?usp=share_link">Certified</a>)<span class="date" style=" color: inherit;">Mar 2022 2021</span><br></p><p> </p>
      <h2><i class="fas fa-map-marker-alt"></i> Where I'm Located -</h2>
       <center>
         <iframe width="100%" height="350" style="margin-bottom: 12px; border:0 " loading="lazy" allowfullscreen src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3327.8183321003753!2d-7.622630085316603!3d33.480080255112334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda62dfb0bd98e83%3A0x6c5587c807a6f58e!2s%C3%89cole%20centrale%20Casablanca!5e0!3m2!1sfr!2sma!4v1674305579490!5m2!1sfr!2sma"></iframe> 
       </center>
      <h2><i class="fas fa-city"></i> Community Involvement -</h2>
-     <p><strong><a href="https://www.linkedin.com/company/techinnov-days/">TechInnov Days</a>, Organizer member<span class="date" style=" color: inherit;">Sept 2022 - Present</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
-      <p><strong><a href="https://www.linkedin.com/company/86309401/">Spring School Data Science</a>, Organizer member (<a href="https://drive.google.com/file/d/1dxNdsAK-3Mtm7wd0qcL3UvCtsPxz35HN/view?usp=share_link">Certification</a>)<span class="date" style=" color: inherit;">Apr 2022 - Present</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
-      <p><strong><a href="https://www.linkedin.com/company/rotaract-centrale-casablanca/">Rotaract Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2020 - July 2021</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
-      <p><strong><a href="https://www.linkedin.com/company/centralecomm/">CentraleComm' Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2020 - July 2021</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p> 
-      <p><strong><a href="https://www.linkedin.com/company/enactus-ecc/">Enactus Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2020 - Jan 2021</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p> 
-      <p>
-     <h2><a href="https://www.instagram.com/abdellatifbelmady/">@abdellatifbelmady</a> On <i class="fa fa-instagram"></i> <span class="instatext">Instagram</span> -</h2>
-      <center class="instafeed">
-        <span class="instalight">
-          <div data-mc-src="a08a2c3e-3751-4445-9e3c-96c46c439863#null"></div>
-          <script src="https://cdn2.woxo.tech/a.js#63d9a26430b9879a303c6456" async data-usrc></script>
-        </span>
-      </center>
+      <p><strong><a href="https://www.linkedin.com/company/rotaract-centrale-casablanca/">Rotaract Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2022 - Jun 2023</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
      <h2><i class="fas fa-headphones-alt"></i> What I'm Listening To -</h2>
       <p class="music">
        <a href="https://open.spotify.com/user/31mvzj3gzwywq54tvf2ofmw2z3ju">
