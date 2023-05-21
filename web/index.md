@@ -18,15 +18,15 @@ title: About
       <h2>Morocco, Eljadida</h2>
       <h3>Data Engineer | Data Analyst  | Data Scientist | Full-stack developer @Angular, @Java & @Python<h3>
       <div class="socials">
-       <a href="https://www.linkedin.com/in/abdellatif-belmady-ab999a133/" class="ln" style=" color: inherit;" title="Linked In - Abdellatif BELMADY"><i class="fab fa-linkedin"></i></a>
-       <a href="https://github.com/abdellatif-belmady" class="git" style=" color: inherit;" title="Github - Abdellatif-belmady"><i class="fab fa-github"></i></a>
-       <a href="https://www.instagram.com/abdellatifbelmady/?hl=fr" class="insta" style=" color: inherit;" title="Instagram - abdellatifbelmady"><i class="fa fa-instagram"></i></a>
-       <a href="https://twitter.com/AbdellatifBELM" class="twitter" style=" color: inherit;" title="Twitter - @AbdellatifBELM"><i class="fa fa-twitter"></i></a>
-       <a href="https://web.facebook.com/abdellatif.belmady/" class="ln" style=" color: inherit;" title="Facebook - Abdellatif BELMADY"><i class="fab fa-facebook"></i></a>
-       <a href="https://www.spotify.com/ma-fr/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account" class="spotify" style=" color: inherit;" title="Spotify - Abdellatif BELMADY"><i class="fab fa-spotify"></i></a>
-       <a href="mailto:<abdellatif.belmady@gmail.com>" class="email" style=" color: inherit;" title="Email - abdellatif.belmady@gmail.com"><i class="fas fa-paper-plane"></i></a>
+       <a href="https://www.linkedin.com/in/mouhiha-mohamed-a0657b1a3/" class="ln" style=" color: inherit;" title="Linked In - Abdellatif BELMADY"><i class="fab fa-linkedin"></i></a>
+       <a href="https://github.com/mouhihaMohamed702" class="git" style=" color: inherit;" title="Github - Abdellatif-belmady"><i class="fab fa-github"></i></a>
+       <a href="https://www.instagram.com/" class="insta" style=" color: inherit;" title="Instagram - abdellatifbelmady"><i class="fa fa-instagram"></i></a>
+       <a href="https://twitter.com" class="twitter" style=" color: inherit;" title="Twitter - @mouhiha mohamed"><i class="fa fa-twitter"></i></a>
+       <a href="https://web.facebook.com//" class="ln" style=" color: inherit;" title="Facebook -mouhiha mohamed"><i class="fab fa-facebook"></i></a>
+       <a href="https://www.spotify.com" class="spotify" style=" color: inherit;" title="Spotify - mouhiha mohamed"><i class="fab fa-spotify"></i></a>
+       <a href="mailto:<mouhihamohamed@gmail.com>" class="email" style=" color: inherit;" title="Email - mouhihamohamed@gmail.com"><i class="fas fa-paper-plane"></i></a>
       </div>
-      <a href="https://www.buymeacoffee.com/abdellatife" style=" color: inherit;">
+      <a href="https://www.buymeacoffee.com" style=" color: inherit;">
         <button class="coffeelarge" title="Buy Me a Coffee :)"><i class="fas fa-coffee"></i> Buy Me a Coffee</button>
         <button class="coffeesmall" title="Buy Me a Coffee :)"><i class="fas fa-coffee"></i></button>
       </a>
@@ -35,13 +35,13 @@ title: About
   </div>
   <div class="stuff__container">
     <div class="stuff__content">
-     <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/1cp2qKjnRsVpm9_tuKJG81I-6KpPtg6SY/view?usp=share_link"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
+     <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/17guhLbNYMGDpqxXlxAy_PILrZZ6hwk_N/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
      </a></span><h1>About</h1>
       <div class="underline"></div>
       <p><strong>Hey! I’m MOUHIHA Mohamed,</strong> I'm a 23-year-old Moroccan student currently  studying Big Data, Data Science, Machine Learning, Deep Learning, Business Intelligence and Computer Vision at National School of Applied Sciences of Khouribga.
       My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I also believe that hard work and dedication are essential to success. As the famous author <i>Stephen King</i> once said, " <strong>Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.</strong>"</p>
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
-     <p><strong>Research Studen<span class="date" style=" color: inherit;">Feb 2023 - Present</span><br><a href="https://www.linkedin.com/company/other-ways25/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
+     <p><strong>Research Studen<span class="date" style=" color: inherit;">Feb 2023 - Present</span><br><a href="https://www.linkedin.com/company/lipim/about/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
 Master's thesis project: Analysis and comparison of deep learning recommender systems.
       <ul>
 <li>Discover recommendation systems and the recommendation process;
@@ -51,30 +51,30 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
 <li>Convert explicit feedback data into an implicit feedback dataset.
 <li>Propose an MLP architecture.
       </ul>
-      <p><strong>Full stack developer <span class="date" style=" color: inherit;">Apr 2021 -Jun 2021</span><br><a href="https://www.linkedin.com/company/6-perform/">Ziryab Tec </strong></a> - Internship</p>
+      <p><strong>Full stack developer <span class="date" style=" color: inherit;">Apr 2021 -Jun 2021</span><br><a href="https://www.linkedin.com/company/ziryabtec/">Ziryab Tec </strong></a> - Internship</p>
       <p>Design and development of a web application for managing recruitment files online using laravel/Angular/MySql .</p>
-      <p><strong>Full stack developer<span class="date" style=" color: inherit;">Apr 2020 - Jun 2020</span><br><a href="https://www.kerix.net/fr/annuaire-entreprise/vcr-sodalmu">Higher School of Technology</strong></a> - Internship</p>
+      <p><strong>Full stack developer<span class="date" style=" color: inherit;">Apr 2020 - Jun 2020</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/ecole-superieure-de-technologie/">Higher School of Technology</strong></a> - Internship</p>
       <p>
        Design and development of a trainee management web applica- tion with Php5/html/css/Bootsrap/Jquery/JavaScript/MySql.
       </p>
-      <p><strong>Full stack developer<span class="date" style=" color: inherit;">Jul 2019-Aug 2019</span><br><a href="https://www.kerix.net/fr/annuaire-entreprise/vcr-sodalmu">Atlanta Insurance </strong></a> - Internship</p>
+      <p><strong>Full stack developer<span class="date" style=" color: inherit;">Jul 2019-Aug 2019</span><br><a href="https://www.linkedin.com/company/atlanta-group-uk/">Atlanta Insurance </strong></a> - Internship</p>
       <p>
       Design and development of a web application for managing re- cruitment files online using C#/MySql.
       </p>
      <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
-      <p><strong>Research Master in Big Data and Decision Support<span class="date" style=" color: inherit;">Sep 2020 - Present</span><br><a href="http://www.centrale-casablanca.ma/fr/">Khouribga National School of Applied Sciences</a></strong> Morocco, Khouribga</p><p> </p>
-      <p><strong>Bachelor Degree in Computer Science and Applied Mathematics option Computer Science<span class="date" style=" color: inherit;">Sep 2020 - Apr 2021</span><br><a href="https://fabacademy.org/">Sidi Bennour Polydisciplinary Faculty </a></strong> Morocco, El Jadida</p>
-      <p><strong>University Diploma of Technology (DUT) in Computer Engineering<span class="date" style=" color: inherit;">Sep 2018 - Apr 2020</span><br><a href="https://fabacademy.org/">Sidi Bennour Higher School of Technology  </a></strong> Morocco, El Jadida</p>
+      <p><strong>Research Master in Big Data and Decision Support<span class="date" style=" color: inherit;">Sep 2020 - Present</span><br><a href="https://ensak.usms.ac.ma/ensak/">Khouribga National School of Applied Sciences</a></strong> Morocco, Khouribga</p><p> </p>
+      <p><strong>Bachelor Degree in Computer Science and Applied Mathematics option Computer Science<span class="date" style=" color: inherit;">Sep 2020 - Apr 2021</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/">Sidi Bennour Polydisciplinary Faculty </a></strong> Morocco, El Jadida</p>
+      <p><strong>University Diploma of Technology (DUT) in Computer Engineering<span class="date" style=" color: inherit;">Sep 2018 - Apr 2020</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/ecole-superieure-de-technologie/">Sidi Bennour Higher School of Technology  </a></strong> Morocco, El Jadida</p>
      <h2><i class="fas fa-award"></i> Honors & Awards -</h2>
-      <p><strong><a href="https://www.linkedin.com/company/techinnov-days/">Huawei ICT Academy</a>,  HCIA - Big Data (<a href="https://drive.google.com/file/d/1Z-UCedg1b5777CgnaPEKChC70VbUGA97/view?usp=share_link">Certified</a>)<span class="date" style=" color: inherit;">Mar 2022 - Present</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
-      <p><strong>Centrale Coding Competition, 2nd Place (<a href="https://drive.google.com/file/d/1ryd9lxvUA3Qd3IUJMF8T0FRt1yWcccck/view?usp=share_link">Certification</a>)<span class="date" style=" color: inherit;">Nov 2021 - Dec 2021</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
+      <p><strong><a href="https://www.linkedin.com/company/techinnov-days/">Huawei ICT Academy</a>,  HCIA - Big Data (<a href="https://drive.google.com/file/d/1Z-UCedg1b5777CgnaPEKChC70VbUGA97/view?usp=share_link">Certification</a>)<span class="date" style=" color: inherit;">Mar 2022 - Present</span><br><a href="https://ensak.usms.ac.ma/ensak/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
+      <p><strong>Hackathon - ENSA El Jadida, 2nd Place <span class="date" style=" color: inherit;">Apr 2019 </span><br><a href="https://ensak.usms.ac.ma/ensak/">ENSA El Jadida</a></strong> Morocco, El Jadida</p><p> </p>
      <h2><i class="fas fa-map-marker-alt"></i> Where I'm Located -</h2>
       <center>
-        <iframe width="100%" height="350" style="margin-bottom: 12px; border:0 " loading="lazy" allowfullscreen src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3327.8183321003753!2d-7.622630085316603!3d33.480080255112334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda62dfb0bd98e83%3A0x6c5587c807a6f58e!2s%C3%89cole%20centrale%20Casablanca!5e0!3m2!1sfr!2sma!4v1674305579490!5m2!1sfr!2sma"></iframe> 
+        <iframe width="100%" height="350" style="margin-bottom: 12px; border:0 " loading="lazy" allowfullscreen src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1361.5948895595536!2d-8.507329883840927!3d33.245581780820854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdaf1a69db96d39b%3A0xc37626dfc33ad1a3!2sEl%20Jadida%2C%20Morocco!5e0!3m2!1sen!2s!4v1621635093506!5m2!1sen!2s"></iframe> 
       </center>
      <h2><i class="fas fa-city"></i> Community Involvement -</h2>
-      <p><strong><a href="https://www.linkedin.com/company/rotaract-centrale-casablanca/">Rotaract Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2020 - July 2021</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
-      <p><strong><a href="https://www.linkedin.com/company/enactus-ecc/">Enactus Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2020 - Jan 2021</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p> 
+      <p><strong><a href="https://www.linkedin.com/company/rotaract-centrale-casablanca/">Rotaract Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2020 - July 2021</span><br><a href="https://ensak.usms.ac.ma/ensak/">Khouribga National School of Applied Sciences</a></strong> Morocco, Khouribga</p><p> </p>
+      <p><strong><a href="https://www.linkedin.com/company/enactus-ecc/">Enactus Association</a>, Active member<span class="date" style=" color: inherit;">Sep 2021 - Jan 2023</span><br><a href="https://ensak.usms.ac.ma/ensak/">Khouribga National School of Applied Sciences</a></strong> Morocco, Khouribga</p><p> </p> 
       <p>
      <h2><i class="fas fa-headphones-alt"></i> What I'm Listening To -</h2>
       <p class="music">
