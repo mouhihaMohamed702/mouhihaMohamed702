@@ -1,6 +1,6 @@
-site_name: Abdellatif BELMADY
+site_name: MOUHIHA Mohamed
 site_description: >-
-  Abdellatif BELMADY is the personal website of Mr. Abdellatif BELMADY where he shares the projects he is working on, 
+  MOUHIHA Mohamedis the personal website of Mr. MOUHIHA Mohamed where he shares the projects he is working on, 
   the machine learning books he has read and also free courses on the main points of machine learning and deep learning.
 docs_dir: web/
 
@@ -68,15 +68,15 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/abdellatif-belmady
+      link: https://github.com/mouhihamohamed702
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/abdellatif-belmady-ab999a133/
+      link: https://www.linkedin.com/in/mouhiha-mohamed-a0657b1a3/
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/abdellatif.belmady
+      link: https://www.facebook.com/
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@otherways8368/featured
+      link: https://www.youtube.com/
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/abdellatifbelmady/
+      link: https://www.instagram.com/
 
 # Repository
 repo_url: https://github.com/abdellatif-belmady/abdellatif-belmady
