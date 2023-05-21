@@ -76,13 +76,6 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
       <p><strong><a href="https://www.linkedin.com/company/rotaract-centrale-casablanca/">Rotaract Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2020 - July 2021</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
       <p><strong><a href="https://www.linkedin.com/company/enactus-ecc/">Enactus Association</a>, Active member<span class="date" style=" color: inherit;">Aug 2020 - Jan 2021</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p> 
       <p>
-     <h2><a href="https://www.instagram.com/abdellatifbelmady/">@abdellatifbelmady</a> On <i class="fa fa-instagram"></i> <span class="instatext">Instagram</span> -</h2>
-      <center class="instafeed">
-        <span class="instalight">
-          <div data-mc-src="a08a2c3e-3751-4445-9e3c-96c46c439863#null"></div>
-          <script src="https://cdn2.woxo.tech/a.js#63d9a26430b9879a303c6456" async data-usrc></script>
-        </span>
-      </center>
      <h2><i class="fas fa-headphones-alt"></i> What I'm Listening To -</h2>
       <p class="music">
        <a href="https://open.spotify.com/user/31mvzj3gzwywq54tvf2ofmw2z3ju">
