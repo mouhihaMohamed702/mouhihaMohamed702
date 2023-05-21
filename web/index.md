@@ -41,7 +41,7 @@ title: About
       <p><strong>Hey! I’m MOUHIHA Mohamed,</strong> I'm a 23-year-old Moroccan student currently  studying Big Data, Data Science, Machine Learning, Deep Learning, Business Intelligence and Computer Vision at National School of Applied Sciences of Khouribga.
       My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I also believe that hard work and dedication are essential to success. As the famous author <i>Stephen King</i> once said, " <strong>Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.</strong>"</p>
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
-     <p><strong>Research Studen<span class="date" style=" color: inherit;">February 2023 - Present</span><br><a href="https://www.linkedin.com/company/other-ways25/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Khouribga</a></strong> - Internship</p>
+     <p><strong>Research Studen<span class="date" style=" color: inherit;">February 2023 - Present</span><br><a href="https://www.linkedin.com/company/other-ways25/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
 Master's thesis project: Analysis and comparison of deep learning recommender systems.
       <ul>
 <li>Discover recommendation systems and the recommendation process;
@@ -51,24 +51,12 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
 <li>Convert explicit feedback data into an implicit feedback dataset.
 <li>Propose an MLP architecture.
       </ul>
-      <p><strong>Full stack developer <span class="date" style=" color: inherit;">Apr 2022 - Jul 2022</span><br><a href="https://www.linkedin.com/company/6-perform/">6 PERFORM</strong></a> - Internship</p>
-      <ul>
-        <li>Images collection (using the <strong><a href="https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm">Imageye</a></strong> extention). 
-        <li>Image annotation with <strong><a href="https://sourceforge.net/projects/labelimg.mirror/">labelImg.exe</a></strong>. 
-        <li>Training of Deep Learning models using <strong><a href="https://towardsdatascience.com/yolo-v4-optimal-speed-accuracy-for-object-detection-79896ed47b50">the YOLO version 4 algorithm</a></strong>. 
-        <li>YOLO Model for the detection and recognition of surgical instruments. 
-        <li>YOLO Model for the detection of mask wearing. 
-        <li>YOLO Model for the detection of medical caps. 
-        <li>YOLO Model for the detection of gowns.
-        </li>
-      </ul>
-      <p><strong>Data Analyst Intern<span class="date" style=" color: inherit;">Aug 2021 - Sept 2021</span><br><a href="https://www.kerix.net/fr/annuaire-entreprise/vcr-sodalmu">VCR-Sodalmu</strong></a> - Internship</p>
-      <ul>
-        <li>Realization of an <strong><a href="https://drive.google.com/file/d/1x4r7bgLm6O38PKcY0ONY0IaTBthXEc6K/view?usp=share_link">Excel application for inventory management</a></strong>. 
-        <li>Implementation of a machine learning model to identify a waste problem in the production line. 
-        <li>Development in knowing how to ask the right questions in order to get the requested data. 
-        </li>
-      </ul>
+      <p><strong>Full stack developer <span class="date" style=" color: inherit;">April 2021 -June 2021</span><br><a href="https://www.linkedin.com/company/6-perform/">Ziryab Tec </strong></a> - Internship</p>
+      <p>Design and development of a web application for managing recruitment files online using laravel/Angular/MySql .</p>
+      <p><strong>Full stack developer<span class="date" style=" color: inherit;">April 2020 - June 2020</span><br><a href="https://www.kerix.net/fr/annuaire-entreprise/vcr-sodalmu">Higher School of Technology</strong></a> - Internship</p>
+      <p>
+       Design and development of a trainee management web applica- tion with Php5/html/css/Bootsrap/Jquery/JavaScript/MySql.
+      </p>
      <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
       <p><strong>Data Science and digitalization<span class="date" style=" color: inherit;">Sept 2020 - Present</span><br><a href="http://www.centrale-casablanca.ma/fr/">Ecole Centrale Casablanca</a></strong> Morocco, Casablanca</p><p> </p>
       <p><strong>Physics Chemistry Engineering Science<span class="date" style=" color: inherit;">Sept 2018 - Apr 2020</span><br><a href="https://fabacademy.org/">Preparatory Classes Errazi</a></strong> Morocco, El Jadida</p>
