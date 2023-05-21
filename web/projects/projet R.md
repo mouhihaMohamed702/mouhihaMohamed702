@@ -1,11 +1,8 @@
 # Profilage des chauffeurs
 
 !!! Info "Membres du groupe"
-    - [Abdellatif BELMADY](https://github.com/Abdellatif-belmady/)
-    - [Fatine BOUSSATTINE](https://github.com/FatineDev/)
-    - [Hamza HAJJINI](https://github.com/HAJJINIHamza/)
-    - [Hamza Dribine](https://github.com/hamza-dri/)
-    - [Mohamed Ait Hajjoub](https://github.com/)
+    - [MOUHIHA Mohamed](https://github.com/mouhihamohamed702/)
+    
 
 ## **Importer les packages**
 
