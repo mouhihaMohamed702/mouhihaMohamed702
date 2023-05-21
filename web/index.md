@@ -18,9 +18,9 @@ title: About
       <h2>Morocco, Eljadida</h2>
       <h3>Data Engineer | Data Analyst  | Data Scientist | Full-stack developer @Angular, @Java & @Python<h3>
       <div class="socials">
-       <a href="https://www.linkedin.com/in/mouhiha-mohamed-a0657b1a3/" class="ln" style=" color: inherit;" title="Linked In - Abdellatif BELMADY"><i class="fab fa-linkedin"></i></a>
-       <a href="https://github.com/mouhihaMohamed702" class="git" style=" color: inherit;" title="Github - Abdellatif-belmady"><i class="fab fa-github"></i></a>
-       <a href="https://www.instagram.com/" class="insta" style=" color: inherit;" title="Instagram - abdellatifbelmady"><i class="fa fa-instagram"></i></a>
+       <a href="https://www.linkedin.com/in/mouhiha-mohamed-a0657b1a3/" class="ln" style=" color: inherit;" title="Linked In - MOUHIHA Mohamed"><i class="fab fa-linkedin"></i></a>
+       <a href="https://github.com/mouhihaMohamed702" class="git" style=" color: inherit;" title="Github - MOUHIHA Mohamed"><i class="fab fa-github"></i></a>
+       <a href="https://www.instagram.com/" class="insta" style=" color: inherit;" title="Instagram - MOUHIHA Mohamed"><i class="fa fa-instagram"></i></a>
        <a href="https://twitter.com" class="twitter" style=" color: inherit;" title="Twitter - @mouhiha mohamed"><i class="fa fa-twitter"></i></a>
        <a href="https://web.facebook.com//" class="ln" style=" color: inherit;" title="Facebook -mouhiha mohamed"><i class="fab fa-facebook"></i></a>
        <a href="https://www.spotify.com" class="spotify" style=" color: inherit;" title="Spotify - mouhiha mohamed"><i class="fab fa-spotify"></i></a>
