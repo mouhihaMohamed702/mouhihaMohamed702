@@ -1,9 +1,3 @@
-<p align="center">
-  <a title="mouhihamohamed702.github.io" href="https://mouhihamohamed702.github.io/mouhihaMohamed702/"><img src="https://img.shields.io/website.svg?label=mouhihamohamed702.github.io&longCache=true&style=flat-square&url=http%3A%2F%2Fmsys2.github.io%2Findex.html&logo=github"></a><!--
-  -->
-  <a title="Follow MOUHIHA Mohamed on Twitter" href="https://twitter.com/MMOUHIHA Mohamed"><img src="https://img.shields.io/twitter/follow/mouhihamohamed?color=31A4F1&logo=twitter&logoColor=white&style=flat-square"></a><!--
-  -->
-</p>
 
 
 # MOUHIHA Mohamed Website
