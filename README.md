@@ -1,11 +1,13 @@
+<p align="center">
+  <a title="mouhihamohamed702.github.io" href="https://mouhihamohamed702.github.io/mouhihaMohamed702/"><img src="https://img.shields.io/website.svg?label=mouhihamohamed702.github.io&longCache=true&style=flat-square&url=http%3A%2F%2Fmsys2.github.io%2Findex.html&logo=github"></a><!--
+  -->
+  <a title="Follow MOUHIHA Mohamed on Twitter" href="https://twitter.com/MMOUHIHA Mohamed"><img src="https://img.shields.io/twitter/follow/mouhihamohamed?color=31A4F1&logo=twitter&logoColor=white&style=flat-square"></a><!--
+  -->
+</p>
 
 
 # MOUHIHA Mohamed Website
-Hi there 👋 <br />
- <br /> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouhihaMohamed702&show_icons=true&theme=merko) <br/>
- <br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouhihaMohamed702&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
-<!-- **mouhihaMohamed/mouhihaMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" /> Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ..
-<p align="center">
+
 
 ## Overview
 
