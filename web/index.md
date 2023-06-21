@@ -38,18 +38,20 @@ title: About
      <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/17guhLbNYMGDpqxXlxAy_PILrZZ6hwk_N/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
      </a></span><h1>About</h1>
       <div class="underline"></div>
-      <p><strong>Hey! I’m MOUHIHA Mohamed,</strong> I'm a 23-year-old Moroccan student currently  studying Big Data, Data Science, Machine Learning, Deep Learning, Business Intelligence and Computer Vision at National School of Applied Sciences of Khouribga.
+      <p><strong>Hey! I’m MOUHIHA Mohamed,</strong> I'm a 23-year-old Moroccan Graduated with a Master's degree in Big Data, Data Science, Machine Learning, Deep Learning, Business Intelligence and Computer Vision at National School of Applied Sciences of Khouribga.
       My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I also believe that hard work and dedication are essential to success. As the famous author <i>Stephen King</i> once said, " <strong>Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.</strong>"</p>
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
-     <p><strong>Research Studen<span class="date" style=" color: inherit;">Feb 2023 - Present</span><br><a href="https://www.linkedin.com/company/lipim/about/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
+     <p><strong>Research Studen<span class="date" style=" color: inherit;">Jan 2023 - Jun 2023</span><br><a href="https://www.linkedin.com/company/lipim/about/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
 Master's thesis project: Analysis and comparison of deep learning recommender systems.
       <ul>
 <li>Discover recommendation systems and the recommendation process;
 <li>Discover the 3 filtering approaches;
 <li>Evaluation of recommendation systems;
-<li>Conduct a literature review on the different classes of deep learning methods used in recommendation systems (MLP, AE, CNN, and RNN).
-<li>Convert explicit feedback data into an implicit feedback dataset.
-<li>Propose an MLP architecture.
+<li>Conduct a literature review on the different classes of deep learning methods used in recommendation systems (MLP, AE, CNN, and RNN);
+<li>Convert explicit feedback data into an implicit feedback dataset;
+<li>Propose an MLP architecture;
+<li>  Compare our proposed approach with existing methods;
+ <li>  Our method surpasses the state-of-the-art method.
       </ul>
       <p><strong>Full stack developer <span class="date" style=" color: inherit;">Apr 2021 -Jun 2021</span><br><a href="https://www.linkedin.com/company/ziryabtec/">Ziryab Tec </strong></a> - Internship</p>
       <p>Design and development of a web application for managing recruitment files online using laravel/Angular/MySql .</p>
@@ -62,11 +64,13 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
       Design and development of a web application for managing re- cruitment files online using C#/MySql.
       </p>
      <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
-      <p><strong>Research Master in Big Data and Decision Support<span class="date" style=" color: inherit;">Sep 2020 - Present</span><br><a href="https://ensak.usms.ac.ma/ensak/">Khouribga National School of Applied Sciences</a></strong> Morocco, Khouribga</p><p> </p>
+      <p><strong>Research Master in Big Data and Decision Support<span class="date" style=" color: inherit;">Sep 2021 - Jun 2023</span><br><a href="https://ensak.usms.ac.ma/ensak/">Khouribga National School of Applied Sciences</a></strong> Morocco, Khouribga</p><p> </p>
       <p><strong>Bachelor Degree in Computer Science and Applied Mathematics option Computer Science<span class="date" style=" color: inherit;">Sep 2020 - Apr 2021</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/">Sidi Bennour Polydisciplinary Faculty </a></strong> Morocco, El Jadida</p>
       <p><strong>University Diploma of Technology (DUT) in Computer Engineering<span class="date" style=" color: inherit;">Sep 2018 - Apr 2020</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/ecole-superieure-de-technologie/">Sidi Bennour Higher School of Technology  </a></strong> Morocco, El Jadida</p>
      <h2><i class="fas fa-award"></i> Honors & Awards -</h2>
-      <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Huawei ICT Academy</a>,  HCIA - Big Data (<a href="https://media.licdn.com/dms/image/C4D22AQFYc0jmE_yHxw/feedshare-shrink_800/0/1616676745722?e=1687392000&v=beta&t=oHy7BymHf84C9i_S3Cn7D4NvUe7eLn5ye2nLchsehTc">Certification</a>)<span class="date" style=" color: inherit;">Mar 2022 - Present</span><br><a href="https://www.ucd.ac.ma/">UCD Université Chouaib Doukkali</a></strong> Morocco, El Jadida</p><p> </p>
+      <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Huawei ICT Academy</a>,  HCIA - Big Data (<a href="https://media.licdn.com/dms/image/C4D22AQFYc0jmE_yHxw/feedshare-shrink_800/0/1616676745722?e=1687392000&v=beta&t=oHy7BymHf84C9i_S3Cn7D4NvUe7eLn5ye2nLchsehTc">Certification</a>)<span class="date" style=" color: inherit;">Mar 2020 </span><br><a href="https://www.ucd.ac.ma/">UCD Université Chouaib Doukkali</a></strong> Morocco, El Jadida</p><p> </p>
+       <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">IBM</a>,  Data Warehousing and BI Analytics Essentials (<a href="https://drive.google.com/file/d/1EchL59QIir8bwAApK6TivOhCFHxrZbLz/view?usp=sharing">Certification</a>)<span class="date" style=" color: inherit;">Jun 2023</span><br><a href="https://www.coursera.org/learn/getting-started-with-data-warehousing-and-bi-analytics/home/week/1">
+Coursera</a></strong> Morocco, El Jadida</p><p> </p>
       <p><strong>Hackathon - ENSA El Jadida, 2nd Place <span class="date" style=" color: inherit;">Apr 2019 </span><br><a href="https://www.ensaj.ucd.ac.ma/">ENSA El Jadida</a></strong> Morocco, El Jadida</p><p> </p>
      <h2><i class="fas fa-map-marker-alt"></i> Where I'm Located -</h2>
       <center>
