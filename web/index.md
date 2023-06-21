@@ -54,7 +54,7 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
  <li>  Our method surpasses the state-of-the-art method.
       </ul>
       <p><strong>Full stack developer <span class="date" style=" color: inherit;">Apr 2021 -Jun 2021</span><br><a href="https://www.linkedin.com/company/ziryabtec/">Ziryab Tec </strong></a> - Internship</p>
-      <p>Design and development of a web application for managing recruitment files online using laravel/Angular/MySql .</p>
+      <p>Design and development of a web application for managing recruitment files online using laravel/Angular/MySql</p>
       <p><strong>Full stack developer<span class="date" style=" color: inherit;">Apr 2020 - Jun 2020</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/ecole-superieure-de-technologie/">Higher School of Technology</strong></a> - Internship</p>
       <p>
        Design and development of a trainee management web applica- tion with Php5/html/css/Bootsrap/Jquery/JavaScript/MySql
