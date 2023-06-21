@@ -38,7 +38,7 @@ title: About
      <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/17guhLbNYMGDpqxXlxAy_PILrZZ6hwk_N/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
      </a></span><h1>About</h1>
       <div class="underline"></div>
-      <p><strong>Hey! I’m MOUHIHA Mohamed,</strong> I'm a 23-year-old Moroccan Graduated with a Master's degree in Big Data, Data Science, Machine Learning, Deep Learning, Business Intelligence and Computer Vision at National School of Applied Sciences of Khouribga.
+      <p><strong>Hey! I’m MOUHIHA Mohamed,</strong> I'm a 23-year-old Moroccan who graduated with a Master's degree in Big Data, Data Science, Machine Learning, Deep Learning, Business Intelligence and Computer Vision at National School of Applied Sciences of Khouribga.
       My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I also believe that hard work and dedication are essential to success. As the famous author <i>Stephen King</i> once said, " <strong>Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.</strong>"</p>
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
      <p><strong>Research Studen<span class="date" style=" color: inherit;">Jan 2023 - Jun 2023</span><br><a href="https://www.linkedin.com/company/lipim/about/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
