@@ -68,12 +68,12 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
       <p><strong>Bachelor Degree in Computer Science and Applied Mathematics option Computer Science<span class="date" style=" color: inherit;">Sep 2020 - Apr 2021</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/">Sidi Bennour Polydisciplinary Faculty </a></strong> Morocco, El Jadida</p>
       <p><strong>University Diploma of Technology (DUT) in Computer Engineering<span class="date" style=" color: inherit;">Sep 2018 - Apr 2020</span><br><a href="https://www.ucd.ac.ma/universite/etablissements/ecole-superieure-de-technologie/">Sidi Bennour Higher School of Technology  </a></strong> Morocco, El Jadida</p>
      <h2><i class="fas fa-award"></i> Honors & Awards -</h2>
-     <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Python for Data Science, AI Development (<a href="https://www.coursera.org/account/accomplishments/certificate/2DGWV2FLUKNS">Certification</a>)<span class="date" style=" color: inherit;">July 2023</span><br><a href="https://www.coursera.org/learn/">
-</p>
-<p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Introduction to Java (<a href="https://www.coursera.org/account/accomplishments/certificate/NXL4JQFNGH5P">Certification</a>)<span class="date" style=" color: inherit;">Jul 2023</span><br><a href="https://www.coursera.org/learn/">
-</p>
+     <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Python for Data Science, AI Development (<a href="https://www.coursera.org/account/accomplishments/certificate/2DGWV2FLUKNS">Certification</a>)<span class="date" style=" color: inherit;">Jun 2023</span><br><a href="https://www.coursera.org/learn/">
+</a></strong></p><p> </p>
+<p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Introduction to Java (<a href="https://www.coursera.org/account/accomplishments/certificate/NXL4JQFNGH5P">Certification</a>)<span class="date" style=" color: inherit;">Jun 2023</span><br><a href="https://www.coursera.org/learn/">
+</a></strong></p><p> </p>
      <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Coursera</a>,  Getting Started with Data Warehousing and BI Analytics (<a href="https://www.coursera.org/account/accomplishments/certificate/7DPL4KS55SQ9">Certification</a>)<span class="date" style=" color: inherit;">Jun 2023</span><br><a href="https://www.coursera.org/learn/getting-started-with-data-warehousing-and-bi-analytics/home/week/1">
-</p>
+</a></strong></p><p> </p>
       <p><strong><a href="https://e.huawei.com/en/talent/ict-academy/">Huawei ICT Academy</a>,  HCIA - Big Data (<a href="https://media.licdn.com/dms/image/C4D22AQFYc0jmE_yHxw/feedshare-shrink_800/0/1616676745722?e=1687392000&v=beta&t=oHy7BymHf84C9i_S3Cn7D4NvUe7eLn5ye2nLchsehTc">Certification</a>)<span class="date" style=" color: inherit;">Mar 2020 </span><br><a href="https://www.ucd.ac.ma/">UCD Université Chouaib Doukkali</a></strong> Morocco, El Jadida</p><p> </p>
       <p><strong>Hackathon - ENSA El Jadida, 2nd Place <span class="date" style=" color: inherit;">Apr 2019 </span><br><a href="https://www.ensaj.ucd.ac.ma/">ENSA El Jadida</a></strong> Morocco, El Jadida</p><p> </p>
      <h2><i class="fas fa-map-marker-alt"></i> Where I'm Located -</h2>
