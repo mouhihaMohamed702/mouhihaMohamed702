@@ -38,8 +38,13 @@ title: About
      <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/17guhLbNYMGDpqxXlxAy_PILrZZ6hwk_N/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
      </a></span><h1>About</h1>
       <div class="underline"></div>
-      <p><strong>Hey! I’m MOUHIHA Mohamed,</strong> I'm a 23-year-old Moroccan who graduated with a Master's degree in Big Data, Data Science, Machine Learning, Deep Learning, Business Intelligence and Computer Vision at National School of Applied Sciences of Khouribga.
-      My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I also believe that hard work and dedication are essential to success. As the famous author <i>Stephen King</i> once said, " <strong>Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.</strong>"</p>
+      <p><strong>Hey! I’m MOUHIHA Mohamed,</strong>I'm a 23-year-old Moroccan with a strong interest in the fields of data science and full-stack development. I recently graduated with a Master's degree in Big Data and Decision Support from the National School of Applied Sciences of Khouribga.</p>
+ <p>
+My passion for data science and full-stack development comes from my firm belief in the transformative power of technology to bring about positive change. I find it incredibly captivating how data can be harnessed to solve intricate problems and enhance the quality of people's lives.</p>
+ <p>
+In addition to my academic pursuits, I am inspired by the wise words of the renowned author, Stephen King, who once said,<strong> "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work."</strong> I strongly resonate with this sentiment and firmly believe that hard work and dedication are indispensable ingredients for achieving success in any endeavor.</p>
+ <p>
+By combining my expertise in data science with full-stack development skills, I aspire to create innovative and impactful solutions that contribute positively to society. My ultimate goal is to be at the forefront of technological advancements, bridging the gap between data-driven insights and user-friendly applications."</p>
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
      <p><strong>Research Student<span class="date" style=" color: inherit;">Jan 2023 - Jun 2023</span><br><a href="https://www.linkedin.com/company/lipim/about/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
 Master's thesis project: Analysis and comparison of deep learning recommender systems.
@@ -86,7 +91,7 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
       <p>
      <h2><i class="fas fa-headphones-alt"></i> What I'm Listening To -</h2>
       <p class="music">
-       <a href="https://open.spotify.com/user/31mvzj3gzwywq54tvf2ofmw2z3ju">
+       <a href="https://open.spotify.com/user/">
         <img src="https://novatorem-oqoqm52ci-twarner491.vercel.app/api/spotify" alt="Spotify">
        </a>
     </div>
