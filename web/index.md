@@ -66,7 +66,7 @@ Master's thesis project: Analysis and comparison of deep learning recommender sy
       </p>
       <p><strong>Full stack developer<span class="date" style=" color: inherit;">Jul 2019-Aug 2019</span><br><a href="https://www.linkedin.com/company/atlanta-group-uk/">Atlanta Insurance </strong></a> - Internship</p>
       <p>
-      Design and development of a web application for managing re- cruitment files online using C#/MySql
+     Design and development of a trainee management desktop application using C#/MySql
       </p>
      <h2><i class="fas fa-graduation-cap"></i> Education -</h2>
       <p><strong>Research Master in Big Data and Decision Support<span class="date" style=" color: inherit;">Sep 2021 - Jun 2023</span><br><a href="https://ensak.usms.ac.ma/ensak/">Khouribga National School of Applied Sciences</a></strong> Morocco, Khouribga</p><p> </p>
