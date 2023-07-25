@@ -26,7 +26,7 @@ title: About
        <a href="https://www.spotify.com" class="spotify" style=" color: inherit;" title="Spotify - mouhiha mohamed"><i class="fab fa-spotify"></i></a>
        <a href="mailto:<mouhihamohamed@gmail.com>" class="email" style=" color: inherit;" title="Email - mouhihamohamed@gmail.com"><i class="fas fa-paper-plane"></i></a>
       </div>
-      <a href="https://www.buymeacoffee.com" style=" color: inherit;">
+      <a href="https://bmc.link/simomouhihl" style=" color: inherit;">
         <button class="coffeelarge" title="Buy Me a Coffee :)"><i class="fas fa-coffee"></i> Buy Me a Coffee</button>
         <button class="coffeesmall" title="Buy Me a Coffee :)"><i class="fas fa-coffee"></i></button>
       </a>
@@ -38,13 +38,13 @@ title: About
      <span class="resume" style=" color: inherit;"><a href="https://drive.google.com/file/d/17guhLbNYMGDpqxXlxAy_PILrZZ6hwk_N/view?usp=sharing"><strong>Export Resume </strong><i class="far fa-file-alt"></i>
      </a></span><h1>About</h1>
       <div class="underline"></div>
-      <p><strong>Hey! I’m MOUHIHA Mohamed,</strong>I'm a 23-year-old Moroccan with a strong interest in the fields of data science and full-stack development. I recently graduated with a Master's degree in Big Data and Decision Support from the National School of Applied Sciences of Khouribga.</p>
+      <p><strong>Hey! I’m MOUHIHA Mohamed,</strong>I'm a 23-year-old Moroccan with a strong interest in the fields of data science, data analysis and full-stack development. I recently graduated with a Master's degree in Big Data and Decision Support from the National School of Applied Sciences of Khouribga.</p>
  <p>
-My passion for data science and full-stack development comes from my firm belief in the transformative power of technology to bring about positive change. I find it incredibly captivating how data can be harnessed to solve intricate problems and enhance the quality of people's lives.</p>
+My passion for data science, data analysis and full-stack development comes from my firm belief in the transformative power of technology to bring about positive change. I find it incredibly captivating how data can be harnessed to solve intricate problems and enhance the quality of people's lives.</p>
  <p>
 In addition to my academic pursuits, I am inspired by the wise words of the renowned author, Stephen King, who once said,<strong> "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work."</strong> I strongly resonate with this sentiment and firmly believe that hard work and dedication are indispensable ingredients for achieving success in any endeavor.</p>
  <p>
-By combining my expertise in data science with full-stack development skills, I aspire to create innovative and impactful solutions that contribute positively to society. My ultimate goal is to be at the forefront of technological advancements, bridging the gap between data-driven insights and user-friendly applications."</p>
+By combining my expertise in data science, data analysis with full-stack development skills, I aspire to create innovative and impactful solutions that contribute positively to society. My ultimate goal is to be at the forefront of technological advancements, bridging the gap between data-driven insights and user-friendly applications."</p>
      <h2><i class="fas fa-briefcase"></i> Experience -</h2>
      <p><strong>Research Student<span class="date" style=" color: inherit;">Jan 2023 - Jun 2023</span><br><a href="https://www.linkedin.com/company/lipim/about/">Laboratory of Process Engineering, Computer Science and Mathematics at ENSA-Kh </a></strong> - Internship</p>
 Master's thesis project: Analysis and comparison of deep learning recommender systems.
